@@ -13,8 +13,3 @@ ClicMateCheck is a weather application that allows users to check the current we
 - OpenWeatherMap API for weather data
 - Responsive design for better mobile and desktop user experience
 
-## Live Demo
-
-You can check out the live version of the app by clicking the link below:
-
-[Visit ClicMateCheck - Weather App](https://ashinsmathew.github.io/ClimateCheck/)
